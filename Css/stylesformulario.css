@@ -1,0 +1,94 @@
+
+     * {
+
+       margin: auto;
+       padding: 14px;
+
+     }
+     body {
+         background-color: #344a72;
+     }
+     .btn {
+         display: inline-block;
+         font-size: 18px;
+         color: #000000;
+         background: #fcf763;
+         padding: 20px 30px;
+         border: none;
+         cursor: pointer;
+       }
+     a {
+       text-decoration: none;
+       text-align: center;
+     }
+
+     #container {
+       font-family: Arial;
+       font-size: small;
+       position: relative;
+       width: 500px;
+       height: 50px;
+       margin: auto;
+       max-width: 85%;
+
+     }
+     .form-wrap {
+       background-color: #ffffff;
+
+
+     }
+     .form-wrap h1{
+       text-align: center;
+       font-size: 30px;
+       font-family: Arial;
+     }
+     .form-wrap p {
+       text-align:center;
+       font-family: Arial;
+       font-size: large;
+
+     }
+     .form-wrap .form-group {
+       padding: 10px;
+       padding-left: 1px;
+       padding-right: 30px;
+
+
+     }
+     .form-wrap .form-group label {
+       text-align: left;
+       color: #606060;
+       padding-left: 2px;
+       font-size:16px;
+
+     }
+     .form-wrap .form-group input {
+       width: 100%;
+       font-size: medium;
+
+     }
+     .form-wrap button {
+       background-color: #49c1a2;
+       color: white;
+       font-size: medium;
+       font-family: arial;
+       width: 100%;
+
+     }
+     .form-wrap button:hover {
+      color:#37a08e ;
+
+     }
+     .form-wrap .bottom-text {
+       font-size: 16px;
+       text-align: center;
+
+     }
+     footer {
+       text-align: center;
+       font-size: large;
+
+     }
+     footer a {
+         color: #49c1a2;
+     }
